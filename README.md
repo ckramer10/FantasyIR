@@ -5,12 +5,12 @@ Special thanks to Fantasy Basketball Nerd for providing the NBA IR data. ([Check
 
 Usage:
 
-For Fantasy Team:
+For your fantasy team:
 
-* Update the playersArr list in team.py to reflect your Fantasy Team.
+* Update the playersArr list in team.py to reflect your Fantasy Team
 * Run `python fantasy.py`
 
-For Individual player:
+For an individual player:
 
 * Run `python fantasy.py "enter_player_name_here"`
 * Ex: `python fantasy.py "James Harden"`
